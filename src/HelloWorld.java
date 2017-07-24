@@ -5,6 +5,7 @@ public class HelloWorld {
 		System.out.println("Hello world");
 		int i = 0;
 		i++;
+		i=3;
 	}
 
 }
